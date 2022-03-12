@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * This function displays the last digit 
- *  Main returns 0 to exit
+ * main - function displays the last digit 
+ * Return: 0 (Sucess)
  */
 int main(void)
 {
