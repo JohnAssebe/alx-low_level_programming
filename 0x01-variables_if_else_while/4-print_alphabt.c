@@ -4,7 +4,7 @@
  * main - print alphabet except 'e' and 'q'
  * Return: 0 (Sucess)
  */
-int main
+int main(void)
 {
 	int ch;
 
