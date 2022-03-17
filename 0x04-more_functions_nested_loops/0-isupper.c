@@ -7,14 +7,5 @@
  */
 int _isupper(int c)
 {
-	if (c >= 'A' && c <= 'Z')
-	{
-		printf("%c: %d",c,1);
-		return (1);
-	}
-	else
-	{
-		printf("%c: %d",c,0);
-	        return (0);
-	}
+	return (c >= 'A' && c <= 'Z');
 }
